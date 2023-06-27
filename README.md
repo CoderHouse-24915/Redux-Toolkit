@@ -11,3 +11,6 @@ git clone url repo
 npm install
 npm run start
 ```
+
+![image](https://github.com/CoderHouse-24915/Redux-Toolkit/assets/81595307/903a4427-48a7-41b1-b912-5e86f5b8c89c)
+
