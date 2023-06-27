@@ -5,9 +5,9 @@
 
 > Text that is a quote
 >
-> Some basic Git commands are:
+> Como levantar este proyecto:
 ```
-git status
-git add
-git commit
+git clone url repo
+npm install
+npm run start
 ```
